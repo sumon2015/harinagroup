@@ -1,0 +1,134 @@
+
+
+body{
+	margin:0;
+	padding:0;
+	text-align:center;
+	}
+	
+.wraper{
+	width:1120px;
+	height:auto;
+	margin:auto;
+	margin-top:20px;
+	
+}
+	
+img{
+	height:250px; 
+	width:auto;
+	}
+	
+h1{
+	color:red; 
+	font-size: 72px;
+	}
+
+.aic_t{
+	color:dimgray;
+}
+	
+.g_list{
+	background: #f8f9fa;
+    padding: 20px;
+	
+}
+
+.g_list_right{
+	text-align:right;
+	
+}	
+
+.b_brand h2{
+	color: yellowgreen;
+    font-size: 40px;
+}
+
+	
+.b_part{
+	width:498px;
+	height:auto;
+	margin: 20px;
+	float:left;
+	padding: 10px;
+	border: 1px solid white;
+}
+
+.b_part:hover{
+	border: 1px solid yellowgreen;
+	cursor:pointer;
+}
+
+.b_part_logo{
+	width:45%;
+	height:auto;
+	float:left;
+	text-align:center;
+	
+	
+}
+.b_part_logo p{
+	font-size: 14px;
+    line-height: 20px;
+    margin: 0 0 15px 0;
+}
+
+.b_part_logo img{
+	height:auto;
+	width:auto;	
+	margin:30px auto;
+}
+
+.b_part_content{
+	width: 55%;
+    float: left;
+	
+}
+
+.b_part_content h4{
+	font-size: 20px;
+    font-weight: bold;
+	text-align: left;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.b_part_content p{
+	text-align: justify;
+	color:gray;
+}
+
+
+
+h3{
+	color:black; 
+	font-size:50px; 
+	line-height:30px;
+	}
+h4{
+	color:gray; 
+	font-size: 30px; 
+	line-height: 20px;
+	}
+	
+h4 a{
+	text-decoration:none; 
+	color:gray;
+	}
+	
+h4 a:hover{
+	color:red;
+	}
+.footer p{
+	text-align: left;
+    font-size: 30px;
+    color: gray;
+	
+}
+
+.footer p img{
+	height:100px;
+	width:auto;
+	margin-left:45px;
+	
+}
